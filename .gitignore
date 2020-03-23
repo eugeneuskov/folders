@@ -1,0 +1,6 @@
+.idea
+.vagrant
+.version
+vagrant.yaml
+vendor/
+/nbproject
